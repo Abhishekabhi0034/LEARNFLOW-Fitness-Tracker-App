@@ -1,4 +1,4 @@
-# Stayfit
+# Fitness
 
 ## Running the app
   Open the project in Android Studio
